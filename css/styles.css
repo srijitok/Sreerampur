@@ -11567,6 +11567,8 @@ footer.footer .social-link:hover {
 }
 .logo_img{
   margin: 0 auto;
+  width: 70%;
+  padding-top: 30px;	
 }
 /* for desktop */
 .whatsapp_float {
